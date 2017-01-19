@@ -1,0 +1,22 @@
+{
+  "name": "lesson2",
+  "homepage": "https://github.com/impankajsaini/Client-side-scripting-Lesson-1",
+  "authors": [
+    "impankajsaini <impankaj.saini.1947@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "Javascript"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "Scripts/lib",
+    "test",
+    "tests"
+  ]
+}
